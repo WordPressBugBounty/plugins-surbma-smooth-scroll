@@ -5,7 +5,7 @@ Plugin Name: Surbma | Smooth Scroll
 Plugin URI: https://surbma.com/wordpress-plugins/
 Description: A very simple and lightweight smooth scroll plugin.
 
-Version: 1.2
+Version: 1.3
 
 Author: Surbma
 Author URI: https://surbma.com/
